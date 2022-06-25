@@ -1,0 +1,5 @@
+input1=float(input("Enter the radius of the sphere"))
+vol1=(4*3.14*input1*input1*input1)
+vol2=(vol1/3)
+input2=input("Press enter key to display Volume of sphere in m^3")
+print("The volume of sphere is: ",vol2,"m^3")
